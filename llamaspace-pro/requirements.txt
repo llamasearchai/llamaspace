@@ -1,0 +1,115 @@
+# Core Dependencies
+numpy==1.23.5
+scipy==1.10.1
+matplotlib==3.7.1
+pandas==1.5.3
+skyfield==1.45
+astropy==5.2.2
+sgp4==2.22
+pyephem==4.1.4
+sympy==1.11.1
+quaternion==2023.0.2
+
+# Machine Learning
+tensorflow==2.10.1
+torch==2.0.0
+scikit-learn==1.2.2
+mlflow==2.3.1
+transformers==4.28.1
+lightgbm==3.3.5
+xgboost==1.7.5
+optuna==3.1.1
+ray[tune]==2.3.1
+pytorch-lightning==2.0.2
+torchvision==0.15.1
+gym==0.26.2
+stable-baselines3==1.8.0
+shap==0.41.0
+alibi-detect==0.10.0
+
+# Data Processing
+dask[complete]==2023.3.2
+vaex==4.16.0
+h5py==3.8.0
+polars==0.17.11
+pyarrow==12.0.0
+pyspark==3.4.0
+
+# API and Web
+fastapi==0.95.1
+uvicorn[standard]==0.22.0
+pydantic==1.10.7
+graphene==3.2.1
+strawberry-graphql==0.177.1
+httpx==0.24.0
+websockets==11.0.2
+starlette==0.27.0
+grpcio==1.54.0
+grpcio-tools==1.54.0
+protobuf==4.22.3
+
+# Database
+sqlalchemy==2.0.11
+psycopg2-binary==2.9.6
+alembic==1.10.4
+redis==4.5.4
+pymongo==4.3.3
+kafka-python==2.0.2
+clickhouse-driver==0.2.5
+cassandra-driver==3.25.0
+
+# Infrastructure
+kubernetes==26.1.0
+docker==6.0.1
+prometheus-client==0.16.0
+opentelemetry-api==1.16.0
+opentelemetry-sdk==1.16.0
+boto3==1.26.118
+azure-identity==1.12.0
+google-cloud-storage==2.8.0
+
+# Testing and Development
+pytest==7.3.1
+pytest-cov==4.1.0
+pytest-mock==3.10.0
+black==23.3.0
+isort==5.12.0
+mypy==1.2.0
+pylint==2.17.3
+pre-commit==3.3.1
+flake8==6.0.0
+sphinx==6.2.0
+sphinx-rtd-theme==1.2.0
+
+# Visualization
+plotly==5.14.1
+seaborn==0.12.2
+bokeh==3.1.1
+pyvista==0.38.5
+vtk==9.2.6
+dash==2.9.3
+holoviews==1.15.4
+datashader==0.14.4
+ipywidgets==8.0.6
+
+# Security
+cryptography==40.0.2
+bcrypt==4.0.1
+python-jose[cryptography]==3.3.0
+passlib==1.7.4
+authlib==1.2.0
+
+# Utilities
+tqdm==4.65.0
+python-dotenv==1.0.0
+dynaconf==3.1.12
+loguru==0.7.0
+rich==13.3.5
+typer==0.7.0
+pyyaml==6.0
+toml==0.10.2
+jsonschema==4.17.3
+tenacity==8.2.2
+humanize==4.6.0
+python-dateutil==2.8.2
+jinja2==3.1.2 
