@@ -1,0 +1,92 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Updated in commit 7 - 2025-04-04 17:24:15
+
+# Updated in commit 15 - 2025-04-04 17:24:16
+
+# Updated in commit 23 - 2025-04-04 17:24:16
+
+# Updated in commit 7 - 2025-04-05 14:31:27
+
+# Updated in commit 15 - 2025-04-05 14:31:27
+
+# Updated in commit 23 - 2025-04-05 14:31:27
+
+# Updated in commit 7 - 2025-04-05 15:17:55
+
+# Updated in commit 15 - 2025-04-05 15:17:55
+
+# Updated in commit 23 - 2025-04-05 15:17:55
+
+# Updated in commit 7 - 2025-04-05 15:48:42
+
+# Updated in commit 15 - 2025-04-05 15:48:42
+
+# Updated in commit 23 - 2025-04-05 15:48:43
+
+# Updated in commit 7 - 2025-04-05 16:54:04
+
+# Updated in commit 15 - 2025-04-05 16:54:04
+
+# Updated in commit 23 - 2025-04-05 16:54:05
+
+# Updated in commit 7 - 2025-04-05 17:25:45
+
+# Updated in commit 15 - 2025-04-05 17:25:45
+
+# Updated in commit 23 - 2025-04-05 17:25:45
+
+# Updated in commit 7 - 2025-04-05 18:12:52
+
+# Updated in commit 15 - 2025-04-05 18:12:52
+
+# Updated in commit 23 - 2025-04-05 18:12:52
+
+# Updated in commit 7 - 2025-04-05 18:36:56
+
+# Updated in commit 15 - 2025-04-05 18:36:56
+
+# Updated in commit 23 - 2025-04-05 18:36:57
+
+# Updated in commit 7 - 2025-04-05 19:08:53
+
+# Updated in commit 15 - 2025-04-05 19:08:53
+
+# Updated in commit 23 - 2025-04-05 19:08:53
